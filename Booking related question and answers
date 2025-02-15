@@ -1,0 +1,32 @@
+questions
+What is the total number of bookings and cancellations?
+How does guest type (couple, family, single) affect cancellations?
+How does room status (desired, undesired) influence cancellations?
+What is the distribution of cancellations by hotel type (city, resort)?
+How do cancellations vary across different months?
+
+KPIs
+Total Bookings: 119,391
+Total Cancellations: 44,224
+Guest-wise Cancellation Rates:
+Couple: ~2,800 cancellations out of ~8,000 bookings
+Family: ~1,000 cancellations out of ~3,000 bookings
+Single: ~5,000 cancellations out of ~18,000 bookings
+
+Room Status wise Cancellation Rates:
+Desired: ~8,000 cancellations out of ~20,000 bookings
+Undesired: ~2,000 cancellations out of ~5,000 bookings
+
+Hotel Type Cancellation Rates:
+City Hotel: 8,314 cancellations (38%)
+Resort Hotel: 13,682 cancellations (62%)
+
+Monthly Cancellation Trends:
+Highest cancellations in September and October.
+Lowest cancellations in July and December.
+
+Hotel wise Cancellation Rates:
+City Hotel: 2,138 cancellations (26%)
+Resort Hotel: 6,004 cancellations (74%)
+
+all these provide insights to take data driven decisions
